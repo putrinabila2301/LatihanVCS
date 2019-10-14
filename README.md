@@ -4,4 +4,4 @@ pertama - tama kita download terlebih dahulu perangkat lunak bernama "Git" kalia
 ![ss 1](https://github.com/putrinabila2301/LatihanVCS/blob/master/gambar/ss%201.png) 
 
 lalu kalian buka file instalasi git yang sudah kalian download tadi 
-! [ss 2](https://github.com/putrinabila2301/LatihanVCS/blob/master/gambar/ss%202.png)
+![ss 2](https://github.com/putrinabila2301/LatihanVCS/blob/master/gambar/ss%202.png)
